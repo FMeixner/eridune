@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Eridune
+  pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: de-DE
-  baseUrl: FMeixner.github.io/eridune
+  locale: en-US
+  baseUrl: fmeixner.github.io/quartz
   ignorePatterns:
     - private
     - templates
@@ -113,7 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: its-theme
+      variation: ttrpg-dnd
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -266,6 +267,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+      enableCopyTool: false
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
@@ -298,4 +303,3 @@ layout:
         right: []
     canvas: {}
     bases: {}
-
