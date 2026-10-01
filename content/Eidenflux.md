@@ -12,10 +12,11 @@ Durch ihre technologischen Erfindungen gewannen die Alchemisten erheblichen poli
 
 Die Erbeneidigen waren Gegner der Alchemisten, da sie ihre technologischen Entwicklungen als magisch ablehnten und sich gegen die Verbreitung von Nullgaslaternen wandten. Die Alchemistengildner hingegen unterstützten die Arbeit der Alchemisten und halfen ihnen bei der Produktion und Verbreitung ihrer innovativen Produkte.
 
-Die Spaltung des Centraleums hatte weitreichende Auswirkungen auf die Gesellschaft, Politik und Kultur des Centraleums. Es führte zu Konflikten zwischen den verschiedenen Machtgruppen und zur Entstehung von neuen politischen Strukturen. Die Alchemisten spielten dabei eine wichtige Rolle, da sie durch ihre technologischen Erfindungen einen großen Einfluss auf die Gesellschaft ausübten.
+Die Spaltung des Centraleums hatte weitreichende Auswirkungen auf die Gesellschaft, Politik und Kultur des Centraleums. Es führte zu Konflikten zwischen den verschiedenen Machtgruppen und zur Entstehung von neuen politischen Strukturen. Die Alchemisten spielten dabei eine wichtige Rolle, da sie durch ihre technologischen Erfindungen einen großen Einfluss auf die Ge
+sellschaft ausübten.
 ### Bekannte Eigenschaften
 
-Eidenflux lässt Tiere mutieren, besonders im hohen Norden jenseits des [[Rollenspiel/Eridune/Illfors]]. Es kann Energie speichern und besitzt eigenmagnetische Eigenschaften, die sich durch eine Nullgas-Ummantelung unterdrücken lassen. So wird sein Abbau ermöglicht, etwa durch Flux-Armbänder bei Minenarbeitenden und den Einsatz von Vakuumspeeren. Wird Eidenflux freigesetzt, kann es unbelebtes Material der Umgebung aufnehmen und „beleben“.
+Eidenflux lässt Tiere mutieren, besonders im hohen Norden jenseits des [[Illfors]]. Es kann Energie speichern und besitzt eigenmagnetische Eigenschaften, die sich durch eine Nullgas-Ummantelung unterdrücken lassen. So wird sein Abbau ermöglicht, etwa durch Flux-Armbänder bei Minenarbeitenden und den Einsatz von Vakuumspeeren. Wird Eidenflux freigesetzt, kann es unbelebtes Material der Umgebung aufnehmen und „beleben“.
 
 - Flux-Aerosol führt über Generationen zu **Tiermutationen**. (jetzt nach 70 jahren eine echte gefahr)
 - In **Flux-Einsatzgebieten in calveris (hauptsadt)** steigen langsam **schwer heilbare Krankheiten**.
