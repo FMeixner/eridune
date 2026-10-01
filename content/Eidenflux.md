@@ -16,7 +16,7 @@ Die Spaltung des Centraleums hatte weitreichende Auswirkungen auf die Gesellscha
 sellschaft ausübten.
 ### Bekannte Eigenschaften
 
-Eidenflux lässt Tiere mutieren, besonders im hohen Norden jenseits des [[Illfors]]. Es kann Energie speichern und besitzt eigenmagnetische Eigenschaften, die sich durch eine Nullgas-Ummantelung unterdrücken lassen. So wird sein Abbau ermöglicht, etwa durch Flux-Armbänder bei Minenarbeitenden und den Einsatz von Vakuumspeeren. Wird Eidenflux freigesetzt, kann es unbelebtes Material der Umgebung aufnehmen und „beleben“.
+Eidenflux lässt Tiere mutieren, besonders im hohen Norden jenseits des [[Rollenspiel/Eridune/Illfors]]. Es kann Energie speichern und besitzt eigenmagnetische Eigenschaften, die sich durch eine Nullgas-Ummantelung unterdrücken lassen. So wird sein Abbau ermöglicht, etwa durch Flux-Armbänder bei Minenarbeitenden und den Einsatz von Vakuumspeeren. Wird Eidenflux freigesetzt, kann es unbelebtes Material der Umgebung aufnehmen und „beleben“.
 
 - Flux-Aerosol führt über Generationen zu **Tiermutationen**. (jetzt nach 70 jahren eine echte gefahr)
 - In **Flux-Einsatzgebieten in calveris (hauptsadt)** steigen langsam **schwer heilbare Krankheiten**.
