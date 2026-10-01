@@ -1,3 +1,3 @@
-Erste und aktuell einzige Eisenbahn-Linie durch [[Rollenspiel/Eridune/Eridune|Eridune]]
+Erste und aktuell einzige Eisenbahn-Linie durch [[Eridune|Eridune]]
 
-Verbindet [[Rollenspiel/Eridune/Calveris|Calveris]] mit den diversen [[Rollenspiel/Eridune/Eidenflux|Eidenflux]]-Förderstätten
+Verbindet [[Calveris|Calveris]] mit den diversen [[Eidenflux|Eidenflux]]-Förderstätten

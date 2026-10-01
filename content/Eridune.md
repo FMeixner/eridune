@@ -1,9 +1,9 @@
-[[Rollenspiel/Eridune/Calveris]]
+[[Calveris]]
 
-[[Rollenspiel/Eridune/Eidenflux]]
+[[Eidenflux]]
 
-[[Rollenspiel/Eridune/Illfors]]
+[[Illfors]]
 
-[[Rollenspiel/Eridune/Eridune-1]]
+[[Eridune-1]]
 
-[[Rollenspiel/Eridune/Reisend]]
+[[Reisend]]
