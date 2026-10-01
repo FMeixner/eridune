@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://fmeixner.github.io/eridune
+  baseUrl: fmeixner.github.io/eridune
   ignorePatterns:
     - private
     - templates
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Cinzel
-      body: EB Garamond
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -34,9 +34,9 @@ configuration:
         light: "#161618"
         lightgray: "#393639"
         gray: "#646464"
-        darkgray: "#cfc8bc"
-        dark: "#e8e0d0"
-        secondary: "#c2a878"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
