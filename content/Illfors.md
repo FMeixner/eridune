@@ -1,0 +1,1 @@
+**Illfors** (Festung am gleichnamigen Fluss): Nach der **Machtübernahme eines Seraph** wurde der Orden religiöser; einige **Flusswächter** (Jäger mutierter Tiere) sind daraufhin abgewandert.
