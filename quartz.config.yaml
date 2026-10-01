@@ -77,8 +77,7 @@ plugins:
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
-  - source: "@quartz-community
-/table-of-contents"
+  - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
     layout:
@@ -114,7 +113,8 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: its-theme
+      variation: ttrpg-dnd
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -154,8 +154,7 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
-  - source: "@quartz-community/folder-page
-"
+  - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
     enabled: true
@@ -240,8 +239,7 @@ plugins:
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
-    enabled:
- true
+    enabled: true
     options: {}
     order: 25
     layout:
@@ -269,6 +267,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+      enableCopyTool: false
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
@@ -301,4 +303,3 @@ layout:
         right: []
     canvas: {}
     bases: {}
-
