@@ -114,7 +114,6 @@ plugins:
     enabled: true
     options:
       theme: its-theme
-      variation: ttrpg-dnd
       mode: both
       styleSettings:
         "ITS@@--accent@@dark": "#c8c477"
@@ -122,23 +121,34 @@ plugins:
         "ITS@@--accent-h@@dark": "57"
         "ITS@@--accent-s@@dark": "43%"
         "ITS@@--accent-l@@dark": "62%"
+        "ITS@@--accent2@@dark": "#b3a45c"
         "ITS@@--accent2-lite@@dark": "#c8c477"
         "ITS@@--lite-accent@@dark": "#d6d08a"
         "ITS@@--dark-accent@@dark": "#3f3b21"
+        "ITS@@--deep-dark-accent@@dark": "#2e2b17"
         "ITS@@--headers@@dark": "#d4c66a"
         "ITS@@--embed-h@@dark": "#cdc06a"
         "ITS@@--h2-color@@dark": "#cdc06a"
         "ITS@@--code-text@@dark": "#b8b45f"
         "ITS@@--folder-open@@dark": "#9a8a4b"
+        "ITS@@--bg@@dark": "#26241c"
+        "ITS@@--outer-bar@@dark": "#131109"
+        "ITS@@--code-bg@@dark": "#232015"
+        "ITS@@--text@@dark": "#d8d2c0"
         "ITS@@--accent@@light": "#6e6c2c"
         "ITS@@--accent-color@@light": "110, 108, 44"
         "ITS@@--accent-h@@light": "57"
         "ITS@@--accent-s@@light": "43%"
         "ITS@@--accent-l@@light": "30%"
+        "ITS@@--accent2@@light": "#7d7434"
         "ITS@@--accent2-lite@@light": "#5f5d28"
+        "ITS@@--lite-accent@@light": "#4f4d20"
+        "ITS@@--dark-accent@@light": "#c9c39a"
         "ITS@@--headers@@light": "#6e6c2c"
-        "ITS@@--h2-color@@light": "#6e6c2c"
         "ITS@@--embed-h@@light": "#6e6c2c"
+        "ITS@@--h2-color@@light": "#6e6c2c"
+        "ITS@@--code-text@@light": "#6b672e"
+        "ITS@@--folder-open@@light": "#8a7a3c"
         "ITS@@--h1-font": "'IM Fell English SC', serif"
         "ITS@@--h2-font": "'IM Fell English SC', serif"
         "ITS@@--h3-font": "'IM Fell English SC', serif"
