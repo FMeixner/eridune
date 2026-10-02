@@ -24,6 +24,22 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Normalize Obsidian links
+        run: |
+          python3 - <<'PY'
+          import re, glob
+          fixed = 0
+          for f in glob.glob('content/**/*.md', recursive=True):
+              s = open(f, encoding='utf-8').read()
+              orig = s
+              s = re.sub(r'\[\[Archiv/[^\]]*?/([^/\]|]+)\|([^\]]+)\]\]', r'[[\1|\2]]', s)
+              s = re.sub(r'\[\[(?:Rollenspiel/)?Eridune/([^\]]+)\]\]', r'[[\1]]', s)
+              s = re.sub(r'\[\[Rollenspiel/([^\]]+)\]\]', r'[[\1]]', s)
+              if s != orig:
+                  open(f, 'w', encoding='utf-8').write(s)
+                  fixed += 1
+          print(f"Normalized links in {fixed} files")
+          PY
       - name: Install Dependencies
         run: npm ci
       - name: Install Quartz plugins
