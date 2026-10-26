@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "updated": "2026-10-26T18:00:00.000Z",
+  "markers": [
+    {
+      "id": "calveris",
+      "label": "Calveris",
+      "typ": "stadt",
+      "wiki": "Calveris",
+      "url": "",
+      "notiz": "Hauptstadt, Dunwall-artig. Position noch grob geschätzt — im Verschieben-Modus an die richtige Stelle ziehen.",
+      "x": 52,
+      "y": 64
+    },
+    {
+      "id": "illfors",
+      "label": "Illfors",
+      "typ": "grenze",
+      "wiki": "Illfors",
+      "url": "",
+      "notiz": "Grenzfestung und Fluss im Norden an der Schlucht (The-Wall-Analogie als Canyon). Position grob — anpassen.",
+      "x": 47,
+      "y": 10
+    }
+  ],
+  "settings": {
+    "mapUrl": "",
+    "wikiBase": "https://fmeixner.github.io/eridune/"
+  }
+}

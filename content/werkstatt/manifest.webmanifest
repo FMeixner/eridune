@@ -1,0 +1,14 @@
+{
+  "name": "Cartographie d'Eridune — Kartenwerkstatt",
+  "short_name": "Werkstatt",
+  "description": "Interaktive Landmarken-Setzung für den Kontinent Eridune — Marker mit Wiki-Verknüpfung, GitHub-Sync.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#26241c",
+  "theme_color": "#26241c",
+  "lang": "de",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
