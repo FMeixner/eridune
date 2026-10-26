@@ -46,6 +46,11 @@ jobs:
         run: npx quartz plugin install --from-config
       - name: Build Quartz
         run: npx quartz build
+      - name: Copy Kartenwerkstatt (PWA) into public
+        run: |
+          mkdir -p public/werkstatt
+          cp -r content/werkstatt/. public/werkstatt/
+          rm -f public/werkstatt/index
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
